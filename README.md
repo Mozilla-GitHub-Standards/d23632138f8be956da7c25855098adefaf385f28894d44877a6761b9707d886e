@@ -1,3 +1,5 @@
+> This repository is deprecated and no longer used.
+
 ## Tools and Scripts to manage WebProd's Deis cluster
 
 ### Add NewRelic Server Monitoring
